@@ -87,8 +87,6 @@ Presenting insights using data visualization
 
 👩‍💻 Author
 Nancy Tyagi
-
 Aspiring Data Analyst skilled in Excel, SQL, Power BI, and Python for data analysis and visualization.
 
-Naina Tyagi
-Aspiring Data Analyst skilled in Excel, SQL, Power BI, and Python for data analysis and visualization.
+
